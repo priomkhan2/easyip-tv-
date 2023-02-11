@@ -1,0 +1,152 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/c3/19/50/c3195066fbc7067d81c11dfb60fbac45.jpg" tvg-name="PRIOM KHAN"  group-title="PRIOM KHAN",PRIOM KHAN
+https://www.dropbox.com/s/e3mixpcz3b0lqq9/video.guru_20210729_163154235.mp4?raw=1
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="TV দেখার পূর্বে Playlist Update করে নিন""  group-title="",TV দেখার পূর্বে Playlist Update করে নিন"
+https://www.facebook.com/priomkhan712
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="PRIOM KHAN IPTV সর্বশেষ আপডেট      Date [20.01.2023]  Time [12:00pm]""  group-title="",PRIOM KHAN IPTV সর্বশেষ আপডেট      Date [20.01.2023]  Time [12:00pm]"
+https://www.youtube.com/channel/UCYOkvnw4BaFXz06OXn8sDCA
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="1.ANANDA_TV"  group-title="BANGLA",1.ANANDA_TV
+http://172.16.16.2:9981/stream/channelid/789531677
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="2.ASIAN_TV_HD"  group-title="BANGLA",2.ASIAN_TV_HD
+http://172.16.16.2:9981/stream/channelid/878625936
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="3.ATN_BANGLA"  group-title="BANGLA",3.ATN_BANGLA
+http://172.16.16.2:9981/stream/channelid/145279602
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="4.ATN_NEWS"  group-title="BANGLA",4.ATN_NEWS
+http://172.16.16.2:9981/stream/channelid/1528747573
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="5.BANGLA_VISION"  group-title="BANGLA",5.BANGLA_VISION
+http://172.16.16.2:9981/stream/channelid/1500980648
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="6.BANGLA_TV_HD"  group-title="BANGLA",6.BANGLA_TV_HD
+http://172.16.16.2:9981/stream/channelid/1588525278
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="7.BIJOY_TV"  group-title="BANGLA",7.BIJOY_TV
+http://172.16.16.2:9981/stream/channelid/1288299045
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="8.BOISHAKHI_TV"  group-title="BANGLA",8.BOISHAKHI_TV
+http://172.16.16.2:9981/stream/channelid/1483519117
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="9.BTV_CHATTAGRAM"  group-title="BANGLA",9.BTV_CHATTAGRAM
+http://172.16.16.2:9981/stream/channelid/1897029636
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="10.BTV_CHATTAGRAM_2"  group-title="BANGLA",10.BTV_CHATTAGRAM_2
+http://172.16.16.2:9981/stream/channelid/2121562942
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="11.BTV NATIONAL"  group-title="BANGLA",11.BTV NATIONAL
+http://172.16.16.2:9981/stream/channelid/913239442
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="12.BTV NATIONAL_2"  group-title="BANGLA",12.BTV NATIONAL_2
+http://172.16.16.2:9981/stream/channelid/1312900989
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="13.BTV WORLD"  group-title="BANGLA",13.BTV WORLD
+http://172.16.16.2:9981/stream/channelid/79140293
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="14.BTV WORLD_2"  group-title="BANGLA",14.BTV WORLD_2
+http://172.16.16.2:9981/stream/channelid/132942516
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="15.CHANNEL_24_HD"  group-title="BANGLA",15.CHANNEL_24_HD
+http://172.16.16.2:9981/stream/channelid/636862057
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="16.CHANNEL_I_HD"  group-title="BANGLA",16.CHANNEL_I_HD
+http://172.16.16.2:9981/stream/channelid/676857874
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="17.DBC_NEWS"  group-title="BANGLA",17.DBC_NEWS
+http://172.16.16.2:9981/stream/channelid/667684688
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="18.DESH_TV"  group-title="BANGLA",18.DESH_TV
+http://172.16.16.2:9981/stream/channelid/2112945357
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="19.EKATTOR_TV_HD"  group-title="BANGLA",19.EKATTOR_TV_HD
+http://172.16.16.2:9981/stream/channelid/634566927
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="20.EKUSHEY_TV"  group-title="BANGLA",20.EKUSHEY_TV
+http://172.16.16.2:9981/stream/channelid/992494789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="21.GAAN_BANGLA_HD"  group-title="BANGLA",21.GAAN_BANGLA_HD
+http://172.16.16.2:9981/stream/channelid/922691981
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="22.JAMUNA_TELVISION"  group-title="BANGLA",22.JAMUNA_TELVISION
+http://172.16.16.2:9981/stream/channelid/1688235480
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="23.KHUSHBOO"  group-title="BANGLA",23.KHUSHBOO
+http://172.16.16.2:9981/stream/channelid/1958309462
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="24.MOHONA_TV"  group-title="BANGLA",24.MOHONA_TV
+http://172.16.16.2:9981/stream/channelid/1893828278
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="25.NAGORIK_TV_HD"  group-title="BANGLA",25.NAGORIK_TV_HD
+http://172.16.16.2:9981/stream/channelid/411359204
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="26.NEWS_24_HD"  group-title="BANGLA",26.NEWS_24_HD
+http://172.16.16.2:9981/stream/channelid/1302170535
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="27.MY_TV"  group-title="BANGLA",27.MY_TV
+http://172.16.16.2:9981/stream/channelid/128359768
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="28.NTV"  group-title="BANGLA",28.NTV
+http://172.16.16.2:9981/stream/channelid/1831127420
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="29.ROSE_TV"  group-title="BANGLA",29.ROSE_TV
+http://172.16.16.2:9981/stream/channelid/1953123
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="30.RTV"  group-title="BANGLA",30.RTV
+http://172.16.16.2:9981/stream/channelid/262265967
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="31.SA_TV_HD"  group-title="BANGLA",31.SA_TV_HD
+http://172.16.16.2:9981/stream/channelid/1597434427
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="32.SOMOY_TV"  group-title="BANGLA",32.SOMOY_TV
+http://172.16.16.2:9981/stream/channelid/1445083727
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="33.TV9_BANGLA"  group-title="BANGLA",33.TV9_BANGLA
+http://172.16.16.2:9981/stream/channelid/530697568
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="34.CHANNEL_NINE"  group-title="BANGLA",34.CHANNEL_NINE
+http://172.16.16.2:9981/stream/channelid/2135959808
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="35.DEEPTO_TV_HD"  group-title="BANGLA",35.DEEPTO_TV_HD
+http://172.16.16.2:9981/stream/channelid/2089851756
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="36.MAASRANNGA_TV_HD"  group-title="BANGLA",36.MAASRANNGA_TV_HD
+http://172.16.16.2:9981/stream/channelid/1429736321
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="37.SANGEET_BANGLA"  group-title="INDIAN BANGLA",37.SANGEET_BANGLA
+http://172.16.16.2:9981/stream/channelid/1978054486
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/88/f5/42/88f542b6ebe16a97aedd8f109d33cdbf.jpg" tvg-name="New Channel"  group-title="INDIAN BANGLA",New Channel
+http://123.456.789
+
